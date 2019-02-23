@@ -1,0 +1,14 @@
+{
+  "name": "imagecropper",
+  "version": "1.0.0",
+  "description": "quick script to crop images",
+  "main": "imageCrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tankcaster",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.6.0"
+  }
+}
